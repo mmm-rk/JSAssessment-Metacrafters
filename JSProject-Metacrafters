@@ -40,8 +40,8 @@ function listNFTs () {
         console.log("Description: " + nftArr[i].nftDescription);
         console.log("Value:       $" + nftArr[i].nftValue);
         console.log("Category:    " + nftArr[i].nftCategory);
-    	  console.log("Resellable:  " + nftArr[i].nftResellable);
-    	  console.log("Tradable:    " + nftArr[i].nftTradable);
+    	console.log("Resellable:  " + nftArr[i].nftResellable);
+    	console.log("Tradable:    " + nftArr[i].nftTradable);
         console.log("-------------------------------------");
     }
 }
