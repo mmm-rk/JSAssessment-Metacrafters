@@ -54,6 +54,7 @@ function getTotalSupply() {
 // call your functions below this line
 mintNFT( "Legendary Trident", "12341ckjn32gx324fg35", "Weapon of Greek sea god Poseidon", 9567893, "Myth");
 mintNFT("Avatar", "9084x2342n3sh90a7sdb", "The last Air bender", 5787564, "Movie");
+mintNFT("Diamond Sword", "87asfe4n43jhg9053232", "Slashes everything", 85742, "Game")
 mintNFT("Saitama", "ke845ksdk49x494ls47h", "Baldness is power", 628742, "Anime");
 listNFTs();
 getTotalSupply();
